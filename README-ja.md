@@ -1,42 +1,4 @@
 
-
-* [モデルコンテキストプロトコル (MCP) クイックスタート](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
-* [SQLiteデータベースを使用するためのClaudeデスクトップアプリのセットアップ](https://youtu.be/wxCCzo9dGj0)
-
-## コミュニティ
-
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discordサーバー](https://glama.ai/mcp/discord)
-
-## 凡例
-
-* 🎖️ – 公式実装
-* 🐍 – Pythonコードベース
-* 📇 – TypeScriptコードベース
-* 🏎️ – Goコードベース
-* #️⃣ – C#コードベース
-* ☁️ - クラウドサービス
-* 🏠 - ローカルサービス
-
-## サーバー実装
-
-* 📂 - [ブラウザ自動化](#browser-automation)
-* 🎨 - [芸術と文化](#art-and-culture)
-* ☁️ - [クラウドプラットフォーム](#cloud-platforms)
-* 💬 - [コミュニケーション](#communication)
-* 👤 - [顧客データプラットフォーム](#customer-data-platforms)
-* 🗄️ - [データベース](#databases)
-* 🛠️ - [開発者ツール](#developer-tools)
-* 📂 - [ファイルシステム](#file-systems)
-* 🎮 - [ ゲーミング](#gaming)
-* 🧠 - [知識と記憶](#knowledge--memory)
-* 🗺️ - [位置情報サービス](#location-services)
-* 📊 - [監視](#monitoring)
-* 🔎 - [検索](#search)
-* 🔄 - [旅行と交通](#travel-and-transportation)
-* 🔄 - [バージョン管理](#version-control)
-* 🛠️ - [その他のツールと統合](#other-tools-and-integrations)
-
 ### 📂 <a name="browser-automation"></a>ブラウザ自動化
 
 Webコンテンツのアクセスと自動化機能。AIに優しい形式でWebコンテンツを検索、スクレイピング、処理することができます。
