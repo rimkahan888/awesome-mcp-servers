@@ -1,48 +1,4 @@
 
-> [!NOTE]
-> 关于本地 🏠 和云 ☁️ 的区别：
-> * 当 MCP 服务器与本地安装的软件通信时使用本地服务，例如控制 Chrome 浏览器。
-> * 当 MCP 服务器与远程 API 通信时使用网络服务，例如天气 API。
-## 服务器实现
-
-> [!NOTE]
-> 我们现在有一个与存储库同步的[基于 Web 的目录](https://glama.ai/mcp/servers)。
-
-* 📂 - [浏览器自动化](#browser-automation)
-* 🎨 - [艺术与文化](#art-and-culture)
-* ☁️ - [云平台](#cloud-platforms)
-* 🖥️ - [命令行](#command-line)
-* 💬 - [社交](#communication)
-* 👤 - [数据平台](#customer-data-platforms)
-* 🗄️ - [数据库](#databases)
-* 🛠️ - [开发者工具](#developer-tools)
-* 📂 - [文件系统](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
-* 🎮 - [游戏](#gaming)
-* 🧠 - [知识与记忆](#knowledge--memory)
-* 🗺️ - [位置服务](#location-services)
-* 🎯 - [营销](#marketing)
-* 📊 - [监测](#monitoring)
-* 🔎 - [搜索](#search)
-* 🔒 - [安全](#security)
-* 🚆 - [旅行与交通](#travel-and-transportation)
-* 🔄 - [版本控制](#version-control)
-* 🛠️ - [其他工具和集成](#other-tools-and-integrations)
-
-### 📂 <a name="browser-automation"></a>浏览器自动化
-
-Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和处理 Web 内容。
-- [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - 使用 Playwright 进行浏览器自动化的 MCP 服务器，更适合llm
-- [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - 使用 Playwright 进行浏览器自动化和网页抓取的 MCP 服务器
-- [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐🖱️ - 使用 Playwright 实现浏览器自动化的 MCP 服务器
-- [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - 用于网页抓取和交互的浏览器自动化
-- [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - 获取 YouTube 字幕和文字记录以供 AI 分析
-- [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - MCP 服务器与 Apple Shortcuts 的集成
-- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”服务器/客户端 MCP 实现。
-- [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一个支持使用 Google 搜索结果进行免费网页搜索的 MCP 服务器，无需 API 密钥
-- [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一个支持搜索 B站 内容的 MCP 服务器。提供LangChain调用示例、测试脚本。
-
-### 🎨 <a name="art-and-culture"></a>艺术与文化
 
 提供艺术收藏、文化遗产和博物馆数据库的访问与探索。让 AI 模型能够搜索和分析艺术文化内容。
 
