@@ -1,26 +1,4 @@
-# 素晴らしいMCPサーバー [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
-[![中文文档](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
-[![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
-[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
-
-素晴らしいモデルコンテキストプロトコル（MCP）サーバーの厳選リスト。
-
-* [MCPとは何ですか？](#MCPとは何ですか？)
-* [チュートリアル](#チュートリアル)
-* [コミュニティ](#コミュニティ)
-* [凡例](#凡例)
-* [サーバー実装](#サーバー実装)
-* [フレームワーク](#フレームワーク)
-* [ヒントとコツ](#ヒントとコツ)
-
-## MCPとは何ですか？
-
-[MCP](https://modelcontextprotocol.io/) は、標準化されたサーバー実装を通じて、AIモデルがローカルおよびリモートリソースと安全に対話できるようにするオープンプロトコルです。このリストは、ファイルアクセス、データベース接続、API統合、その他のコンテキストサービスを通じてAIの機能を拡張する、実運用および実験的なMCPサーバーに焦点を当てています。
-
-## チュートリアル
 
 * [モデルコンテキストプロトコル (MCP) クイックスタート](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [SQLiteデータベースを使用するためのClaudeデスクトップアプリのセットアップ](https://youtu.be/wxCCzo9dGj0)
